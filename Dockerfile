@@ -14,6 +14,6 @@ RUN npm update
 
 COPY . .
 
-EXPOSE 5901
+EXPOSE 3000
 
 CMD [ "node", "index.js" ]
