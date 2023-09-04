@@ -6,12 +6,12 @@ const readMore = more.repeat(4001)
 
 // Owner
 global.owner = [
-['6285760451683', 'Xyroinee', true]
+['6289508480409', 'Xyroinee', true]
 ]
 global.mods = []
 global.prems = []
 // Info
-global.nomorwa = '6285760451683'
+global.nomorwa = '6281917344867'
 global.packname = 'Clara - MD by'
 global.author = '© Xyroinee'
 global.namebot = '​Clara - MD'
@@ -33,7 +33,7 @@ global.multiplier = 69
 // Apikey
 global.lol = 'Apikeymu'
 global.rose = 'Apikeymu'
-global.xyro = 'Apikeymu'
+global.xyro = 'vwpsB3SCKe'
 // Catatan : Jika Mau Work Fiturnya
 // Masukan Apikeymu
 // Gapunya Apikey? Ya Daftar
@@ -47,7 +47,7 @@ global.APIs = {
 
 /*Apikey*/
 global.APIKeys = {
-    "https://api.xyroinee.xyz": "Apikeymu",
+    "https://api.xyroinee.xyz": "vwpsB3SCKe",
 }
 
 let file = fileURLToPath(import.meta.url)
